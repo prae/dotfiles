@@ -1,0 +1,10 @@
+# This is Git's per-user configuration file.
+[user]
+	email = james.r.reid@gmail.com
+	name = Jamie Reid
+
+[alias]
+    br  = branch
+    co  = checkout
+    cm  = commit -m
+
